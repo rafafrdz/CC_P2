@@ -1,4 +1,6 @@
+![](https://raw.githubusercontent.com/rafafrdz/CC_P2/master/img/1.png)![](https://raw.githubusercontent.com/rafafrdz/CC_P2/master/img/2.png)
 
+![](https://raw.githubusercontent.com/rafafrdz/CC_P2/master/img/3.png)
 
 ```PYTHON
 # -*- coding: utf-8 -*-
